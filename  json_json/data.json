@@ -1,0 +1,15 @@
+{
+"student" : [
+ {
+"id" : 1234,
+ "name" : "studentA",
+ "groupNum" : "A1234"
+ },
+ {
+ "id" : 2345,
+ "name" : "studentB",
+ "groupNum" : null
+ }
+ ],
+ "completed": false
+ }
